@@ -1,4 +1,4 @@
-# Date_corrector
+# Date corrector
 Sort photos by taken date. This script will replace the creation date with the taken date
 
 ## File extension
